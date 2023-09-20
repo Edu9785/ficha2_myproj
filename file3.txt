@@ -1,1 +1,8 @@
 Este é o exemplo de um ficheiro de texto file3
+
+
+Aqui mais texto
+
+
+
+E aqui tambem
